@@ -1,0 +1,7 @@
+---
+_entity: "github.com/AmadlaOrg/Entity$v1"
+name: PHP
+description: Entity Programming Language configuration definitions.
+category: ProgrammingLanguage
+tags:
+  - general
